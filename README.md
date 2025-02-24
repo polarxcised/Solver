@@ -116,7 +116,7 @@ Contributions, bug reports, and feature requests are welcome! Feel free to open 
 
 ## License
 
-This project is released under the [MIT License](LICENSE). You’re free to modify and distribute the code as long as the original license is included.
+This project is released under the [Apache License](LICENSE). You’re free to modify and distribute the code as long as the original license is included.
 
 ---
 
