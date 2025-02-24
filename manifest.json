@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Educake Cheats",
+  "name": "Solver",
   "version": "1.0",
   "description": "Allows the user to insert their Gemini API key, provides instructions to obtain it, and includes a menu to disable API usage. Remembers the user by storing a unique browser ID.",
   "permissions": [
@@ -11,7 +11,7 @@
   ],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Educake Cheats"
+    "default_title": "Solver"
   },
   "author": "Ansh Kabra",
   "content_scripts": [
