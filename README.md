@@ -1,4 +1,4 @@
-`Solver`
+ # `Solver`
 
 **Solver** is a versatile Chrome extension that can help you tackle homework questions, analyze screenshots, and assist with general problem-solving. Powered by large language models, **Solver** can interpret images (like screenshots of math problems) or text prompts and provide concise, step-by-step solutions.
 
