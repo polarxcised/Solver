@@ -13,7 +13,7 @@
     "default_popup": "popup.html",
     "default_title": "Solver"
   },
-  "author": "Ansh Kabra",
+  "author": "polarxcised",
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
